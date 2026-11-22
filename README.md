@@ -1,17 +1,31 @@
-# food_explorer
+# Recipe Explorer 🍽️
 
-A new Flutter project.
+Recipe Explorer is a Flutter application that helps users discover different food categories and explore meals. It uses TheMealDB API to retrieve real food data and images.
 
-## Getting Started
+## Features
+- Browse food categories
+- View category images
+- Explore meals by category
+- Fetch real data using an API
+- Simple and user-friendly interface
 
-This project is a starting point for a Flutter application.
+## Technologies Used
+- Flutter
+- Dart
+- REST API
+- TheMealDB
+- Visual Studio Code
+- Git and GitHub
 
-A few resources to get you started if this is your first Flutter project:
+## API
+The application uses TheMealDB API.
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+https://www.themealdb.com/api.php
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Developer
+- Name: Karan Khati
+- University: Kyungsung University
+- Major: IT Engineering
+
+## Project
+Flutter University Project - Recipe Explorer
